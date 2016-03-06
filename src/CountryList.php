@@ -6,7 +6,7 @@
   | Copyright (c) 2012-2016 manacode (https://github.com/manacode)         |
   +------------------------------------------------------------------------+
   | This source file is subject to the New BSD License that is bundled     |
-  | with this package in the file docs/LICENSE.txt.                        |
+  | with this package in the file LICENSE.                        |
   |                                                                        |
   +------------------------------------------------------------------------+
   | Authors: Leonardus Agung <jempoler.com@gmail.com>                      |
