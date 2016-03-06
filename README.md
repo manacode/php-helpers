@@ -19,7 +19,7 @@ Create the `composer.json` file or add new require line as follows:
 ```json
 {
     "require": {
-        "manacode/php-helpers": "master"
+        "manacode/php-helpers": "dev-master"
     }
 }
 ```
