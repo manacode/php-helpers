@@ -19,9 +19,9 @@
         "manacode/manafx": "Mana Application Framework"
     },
     "autoload": {
-        "psr-4": { "Manacode\\Helpers\\": "php-helpers/src/" }
+        "psr-4": { "Manacode\\Helpers\\": "src/" }
     },
     "autoload-dev": {
-        "psr-4": { "Manacode\\Helpers\\Test\\": "php-helpers/tests/" }
+        "psr-4": { "Manacode\\Helpers\\Test\\": "tests/" }
     }
 }
