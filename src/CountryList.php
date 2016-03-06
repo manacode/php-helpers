@@ -283,7 +283,7 @@ class CountryList
 		),
 	);
 	
-	public function getCountry($continent) {
+	public function getCountry($continent="") {
 		if ($continent=='mixall') {
 			$mixall = array();
 			foreach ($this->countryList as $cont) {
@@ -293,9 +293,9 @@ class CountryList
 			return $mixall;
 		} else {
 			if (empty($continent)) {
-				return $countryList;
+				return $this->countryList;
 			} else {
-				return $countryList[$continent];
+				return $this->countryList[$continent];
 			}
 		}
 	}
