@@ -9,7 +9,7 @@
   | with this package in the file LICENSE.                        |
   |                                                                        |
   +------------------------------------------------------------------------+
-  | Authors: Leonardus Agung <jempoler.com@gmail.com>                      |
+  | Authors: Leonardus Agung <mannacode@gmail.com>                      |
   |                                                                        |
   +------------------------------------------------------------------------+
 */
